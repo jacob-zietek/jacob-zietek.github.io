@@ -1,39 +1,7 @@
-## Welcome to GitHub Pages
+# Hey, welcome to the documentation for this site.
 
-You can use the [editor on GitHub](https://github.com/jacob-zietek/jacob-zietek.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Why is this a thing?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I wanted a place to write my thoughts into markdown files and have them automatically uploaded to a website. I guess other people have had this thought before because [Jekyll](https://jekyllrb.com/) is a thing. It does all of the markdown &rarr; HTML stuff for you :thumbsup:. There are some things that need to be configured every time you add a markdown file still, so the [run.py](https://github.com/jacob-zietek/jacob-zietek.github.io/blob/main/run.py) script automates adding the links to [index.md](https://github.com/jacob-zietek/jacob-zietek.github.io/blob/main/index.md) and [_config.yml](https://github.com/jacob-zietek/jacob-zietek.github.io/blob/main/_config.yml).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacob-zietek/jacob-zietek.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-https://nicolas-van.github.io/easy-markdown-to-github-pages/
+Special thanks to this guy &rarr;  https://nicolas-van.github.io/easy-markdown-to-github-pages/
