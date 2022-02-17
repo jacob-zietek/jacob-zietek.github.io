@@ -12,8 +12,8 @@ index_lines = index_lines[:index_lines.index("Links:")+1]
 for f in markdown_files: index_lines.append(f' - [{f.replace(".md", "")}]({url + f.replace(".md", ".html")})')
 print('\n'.join(index_lines))
 print("")
-# Code to fix include statements in _config.yml 
 
+# Code to fix include statements in _config.yml 
 config = open("_config.yml", "r")
 config_lines = config.read().split('\n')
 print(f"Fixing: ... {config_lines}")
@@ -23,15 +23,15 @@ for f in markdown_files: config_lines.append(f' - {f}')
 print('\n'.join(config_lines))
 print("")
 
+# Write to files
 index = open("index.md", "w")
 index.write('\n'.join(index_lines))
-
 config = open("_config.yml", "w")
 config.write('\n'.join(config_lines))
-
 index.close()
 config.close()
 
+# Push all changes and let github compile site
 os.system('git add .')
 os.system('git commit -a -m "Pushing to repo"')
 os.system('git push')
