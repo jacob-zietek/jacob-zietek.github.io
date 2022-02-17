@@ -6,5 +6,6 @@ relative_links:
   enabled: true
   collections: true
 include:
+ - Hello!.md
  - index.md
  - README.md
