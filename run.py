@@ -5,7 +5,11 @@ markdown_files = [x for x in os.listdir(".") if x.endswith(".md")]
 # Code to fix links in index.md
 index = open("index.md", "r")
 
-print(index.read().split('\n'))
+index_lines = index.read().split('\n')
+
+print(f"Fixing: ... {index_lines}")
+
+
 
 
 # Code to fix include statements in _config.yml 
