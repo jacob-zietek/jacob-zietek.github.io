@@ -9,7 +9,7 @@ index_lines = index.read().split('\n')
 
 print(f"Fixing: ... {index_lines}")
 
-index_lines = index_lines[:index_lines.index("Links:")]
+index_lines = index_lines[:index_lines.index("Links:")+1]
 
 for f in markdown_files: index_lines.append(f' - {f}')
 
