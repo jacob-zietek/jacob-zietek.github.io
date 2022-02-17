@@ -1,5 +1,6 @@
 import os
 
+url = "https://jacob-zietek.github.io/"
 markdown_files = [x for x in os.listdir(".") if x.endswith(".md")]
 
 # Code to fix links in index.md
@@ -8,7 +9,7 @@ index_lines = index.read().split('\n')
 print(f"Fixing: ... {index_lines}")
 print("")
 index_lines = index_lines[:index_lines.index("Links:")+1]
-for f in markdown_files: index_lines.append(f' - {f}')
+for f in markdown_files: index_lines.append(f' - [{f}]({url + f.replace(".md", ".html")})')
 print('\n'.join(index_lines))
 print("")
 # Code to fix include statements in _config.yml 
