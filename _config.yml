@@ -7,7 +7,6 @@ relative_links:
   enabled: true
   collections: true
 include:
- - Hello!.md
  - index.md
  - README.md
  - how_do_I_start_working_out.md
