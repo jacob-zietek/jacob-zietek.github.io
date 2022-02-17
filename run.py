@@ -9,7 +9,7 @@ print(f"Fixing: ... {index_lines}")
 index_lines = index_lines[:index_lines.index("Links:")+1]
 for f in markdown_files: index_lines.append(f' - {f}')
 print('\n'.join(index_lines))
-
+print("")
 # Code to fix include statements in _config.yml 
 
 config = open("_config.yml", "r")
