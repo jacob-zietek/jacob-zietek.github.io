@@ -3,5 +3,5 @@
 This site is currently under construction, but thanks for stopping by :^)
 
 Links:
- - [index.md.replace(".md", "")](https://jacob-zietek.github.io/index.html)
- - [README.md.replace(".md", "")](https://jacob-zietek.github.io/README.html)
+ - [index](https://jacob-zietek.github.io/index.html)
+ - [README](https://jacob-zietek.github.io/README.html)
