@@ -25,7 +25,7 @@ config_lines = config_lines[:config_lines.index("include:")+1]
 
 for f in markdown_files: config_lines.append(f' - {f}')
 
-print(config_lines)
+print('\n'.join(config_lines))
 
 os.system('git add .')
 os.system('git commit -a -m "Pushing to repo"')
