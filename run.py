@@ -6,6 +6,7 @@ markdown_files = [x for x in os.listdir(".") if x.endswith(".md")]
 index = open("index.md", "r")
 index_lines = index.read().split('\n')
 print(f"Fixing: ... {index_lines}")
+print("")
 index_lines = index_lines[:index_lines.index("Links:")+1]
 for f in markdown_files: index_lines.append(f' - {f}')
 print('\n'.join(index_lines))
@@ -15,9 +16,11 @@ print("")
 config = open("_config.yml", "r")
 config_lines = config.read().split('\n')
 print(f"Fixing: ... {config_lines}")
+print("")
 config_lines = config_lines[:config_lines.index("include:")+1]
 for f in markdown_files: config_lines.append(f' - {f}')
 print('\n'.join(config_lines))
+print("")
 
 index = open("index.md", "w")
 index.write('\n'.join(index_lines))
