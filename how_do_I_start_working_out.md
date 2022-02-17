@@ -1,6 +1,6 @@
 # How do I start working out?
 
-A lot of people have approached me since I started working out for advice on how to start out. This is both endearing and a little odd since I'm miles away from Arnold :muscle:. I still consider myself a beginner. Nonetheless, I wanted to record some of the things I've learned since starting my fitness journey and some of the common advice I dish out. This is by no means a comprehensive guide, fitness is a life long journey.
+A lot of people have approached me since I started working out for advice on how to start out. This is both endearing and a little odd since I'm miles away from Arnold :muscle:. The demographic also tends to be people in STEM, so I'm glad we're working on killing stereotype. I still consider myself a beginner. Nonetheless, I wanted to record some of the things I've learned since starting my fitness journey and some of the common advice I dish out. This is by no means a comprehensive guide, fitness is a life long journey.
 
 ## Why is it important to you?
 
