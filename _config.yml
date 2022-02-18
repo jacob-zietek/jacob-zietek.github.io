@@ -5,6 +5,8 @@ repository: jacob-zietek/jacob-zietek.github.io
 
 theme: minima
 
+github_username: jacob-zietek
+linkedin_username: jacob-zietek
 minima:
   social_links:
     github: jacob-zietek
