@@ -4,9 +4,7 @@ email: jzietek@cs.purdue.edu
 github_username: jacob-zietek
 repository: jacob-zietek/jacob-zietek.github.io
 
-description: > # this means to ignore newlines
-  CS Undergrad @ Purdue University\n
-  AI Enthusiast
+description: "CS Undergrad @ Purdue University\nAI Enthusiast"
 
 theme: minima
 
