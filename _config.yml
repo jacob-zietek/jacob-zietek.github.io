@@ -1,7 +1,12 @@
 title: Jacob Zietek
+author: jacob-zietek
 email: jzietek@cs.purdue.edu
 github_username: jacob-zietek
 repository: jacob-zietek/jacob-zietek.github.io
+
+description: > # this means to ignore newlines
+  CS Undergrad @ Purdue University
+  AI Enthusiast
 
 theme: minima
 
