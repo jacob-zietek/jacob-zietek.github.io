@@ -7,7 +7,7 @@ I wanted a place to write my thoughts into markdown files and have them automati
 If you want to configure this for yourself:
 
 - Change the URL link in [run.py](https://github.com/jacob-zietek/jacob-zietek.github.io/blob/main/run.py) to your own
-- Add your own markdown files to the repository 
+- Add your own markdown files to the repository
 - Run `python3 run.py`, this will automatically set up [index.md](https://github.com/jacob-zietek/jacob-zietek.github.io/blob/main/index.md) and [_config.yml](https://github.com/jacob-zietek/jacob-zietek.github.io/blob/main/_config.yml) for you and push the changes
 
 Special thanks to this guy &rarr;  https://nicolas-van.github.io/easy-markdown-to-github-pages/

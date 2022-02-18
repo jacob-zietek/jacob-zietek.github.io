@@ -1,12 +1,20 @@
-theme: minima
 title: Jacob Zietek
+email: jzietek@cs.purdue.edu
+github_username: jacob-zietek
+repository: jacob-zietek/jacob-zietek.github.io
+
+theme: minima
+
 plugins:
+  - jekyll-feed
   - jekyll-relative-links
   - jemoji
-relative_links:
-  enabled: true
-  collections: true
-include:
- - index.md
- - README.md
- - how_do_I_start_working_out.md
+
+defaults:
+  - scope:
+      type: 'posts'
+    values:
+      permalink: /:title
+
+exclude:
+  - README.md

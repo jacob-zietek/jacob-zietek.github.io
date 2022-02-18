@@ -1,12 +1,16 @@
-# How do I start working out?
+---
+layout: post
+title: How do I start working out?
+# slug: <changeme> You can override here
+---
 
 A lot of people have approached me since I started working out for advice on how to start out. This is both endearing and a little odd since I'm miles away from Arnold :muscle:. The demographic also tends to be people in STEM, so I'm glad we're working on killing stereotypes. I still consider myself a beginner. Nonetheless, I wanted to record some of the things I've learned since starting my fitness journey and some of the common advice I dish out. This is by no means a comprehensive guide, fitness is a life long journey.
 
 ## Why is it important to you?
 
-Fitness and working out has incredible [benefits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1470658/#:~:text=Exercise%20improves%20mental%20health%20by,self%2Desteem%20and%20cognitive%20function.&text=Exercise%20has%20also%20been%20found,self%2Desteem%20and%20social%20withdrawal.) on your mental and physical health. It's an avenue to increase your cognition, self-esteem, and strength (among other things) all in one place. Your reward for working out is proportional to the amount of effort you put in. 
+Fitness and working out has incredible [benefits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1470658/#:~:text=Exercise%20improves%20mental%20health%20by,self%2Desteem%20and%20cognitive%20function.&text=Exercise%20has%20also%20been%20found,self%2Desteem%20and%20social%20withdrawal.) on your mental and physical health. It's an avenue to increase your cognition, self-esteem, and strength (among other things) all in one place. Your reward for working out is proportional to the amount of effort you put in.
 
-Once you get over the initial hump, exercise is [addicting](https://www.webmd.com/depression/guide/exercise-depression#:~:text=When%20you%20exercise%2C%20your%20body,similar%20to%20that%20of%20morphine.). It feels good to move your body, to abolish mental obstacles we place on ourselves, and to watch your body transform as you put the work in. The gym is a place I'll always feel home in. 
+Once you get over the initial hump, exercise is [addicting](https://www.webmd.com/depression/guide/exercise-depression#:~:text=When%20you%20exercise%2C%20your%20body,similar%20to%20that%20of%20morphine.). It feels good to move your body, to abolish mental obstacles we place on ourselves, and to watch your body transform as you put the work in. The gym is a place I'll always feel home in.
 
 *"It is a disgrace to grow old through sheer carelessness before seeing what manner of man you may become by developing your bodily strength and beauty to their highest limit."* -Socrates
 
@@ -56,9 +60,9 @@ If you're using a premade schedule and you don't know what an exercise is, Googl
 
 Building muscle or burning fat starts in the kitchen. Without a proper diet, all of your progress in the gym is nullified.
 
-I like to follow a loose-ish diet. That doesn't mean I eat everything I want, and it certainly doesn't mean that don't take nutrition seriously. 
+I like to follow a loose-ish diet. That doesn't mean I eat everything I want, and it certainly doesn't mean that don't take nutrition seriously.
 
-I approach dieting by starting with my caloric maintenance ([calculate here](https://www.calculator.net/calorie-calculator.html)). I eat 500 calories below for a cut (losing fat while trying to maintain muscle) and I eat 300-400 calories above for bulking (gaining minimal fat and gaining muscle). I have a set protein goal I want to hit (1 gram of protein per lb of bodyweight) and I do so with different foods. 
+I approach dieting by starting with my caloric maintenance ([calculate here](https://www.calculator.net/calorie-calculator.html)). I eat 500 calories below for a cut (losing fat while trying to maintain muscle) and I eat 300-400 calories above for bulking (gaining minimal fat and gaining muscle). I have a set protein goal I want to hit (1 gram of protein per lb of bodyweight) and I do so with different foods.
 
 I eat out often and I cook often, but my eating revolves around those two things:
 
@@ -89,7 +93,7 @@ I personally tend to stick to lean meats like poultry, nuts, milk, fruits, rice,
 
 I personally take:
 
-- [Creatine](https://www.mayoclinic.org/drugs-supplements-creatine/art-20347591) 
+- [Creatine](https://www.mayoclinic.org/drugs-supplements-creatine/art-20347591)
 - [Ashwaganda](https://www.webmd.com/vitamins/ai/ingredientmono-953/ashwagandha)
 - Multivitamins
 
