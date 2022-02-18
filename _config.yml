@@ -4,8 +4,9 @@ email: jzietek@cs.purdue.edu
 github_username: jacob-zietek
 repository: jacob-zietek/jacob-zietek.github.io
 
-description: | 
+description: >
                CS Undergrad @ Purdue University
+               
                AI Enthusiast
 
 theme: minima
