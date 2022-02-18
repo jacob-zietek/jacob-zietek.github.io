@@ -3,10 +3,8 @@ email: jzietek@cs.purdue.edu
 github_username: jacob-zietek
 repository: jacob-zietek/jacob-zietek.github.io
 
-
-    
 theme: minima
-  social-links:
+  social_links:
     github: https://github.com/jacob-zietek
     linkedin: https://www.linkedin.com/in/jacob-zietek/
 
