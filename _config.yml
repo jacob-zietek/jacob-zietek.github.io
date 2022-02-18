@@ -4,6 +4,11 @@ github_username: jacob-zietek
 repository: jacob-zietek/jacob-zietek.github.io
 
 theme: minima
+  social-links:
+    github: jacob-zietek
+    linkedin: jacob-zietek
+
+show_excerpts: true
 
 plugins:
   - jekyll-feed
