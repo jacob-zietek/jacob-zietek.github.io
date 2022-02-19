@@ -11,6 +11,7 @@ theme: minima
 github_username: jacob-zietek
 linkedin_username: jacob-zietek
 minima:
+  skin: dark
   social_links:
     github: jacob-zietek
     linkedin: jacob-zietek
