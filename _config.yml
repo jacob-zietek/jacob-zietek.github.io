@@ -6,7 +6,8 @@ repository: jacob-zietek/jacob-zietek.github.io
 
 description: CS Undergrad @ Purdue University, AI Enthusiast
 
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 
 github_username: jacob-zietek
 linkedin_username: jacob-zietek
