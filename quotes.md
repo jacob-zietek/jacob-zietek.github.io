@@ -4,7 +4,7 @@ title: Quotes
 permalink: /quotes/
 ---
 
-## A collection of quotes I like
+#### A collection of quotes I like
 
 Gratitude gives you power over adversity
 
