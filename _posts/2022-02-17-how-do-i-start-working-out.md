@@ -6,6 +6,8 @@ title: How do I start working out?
 
 A lot of people have approached me since I started working out for advice on how to start out. This is both endearing and a little odd since I'm miles away from Arnold :muscle:. The demographic also tends to be people in STEM, so I'm glad we're working on killing stereotypes. I still consider myself a beginner. Nonetheless, I wanted to record some of the things I've learned since starting my fitness journey and some of the common advice I dish out. This is by no means a comprehensive guide, fitness is a life long journey.
 
+###### Last updated Feb. 20 2021
+
 ## Why is it important to you?
 
 Fitness and working out has incredible [benefits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1470658/#:~:text=Exercise%20improves%20mental%20health%20by,self%2Desteem%20and%20cognitive%20function.&text=Exercise%20has%20also%20been%20found,self%2Desteem%20and%20social%20withdrawal.) on your mental and physical health. It's an avenue to increase your cognition, self-esteem, and strength (among other things) all in one place. Your reward for working out is proportional to the amount of effort you put in.
@@ -54,7 +56,11 @@ This will allow you to maximize the amount of workouts you can do, since your wo
 
 [Here's a link](https://www.aston.ac.uk/sport/news/tips/fitness-exercise/push-pull-legs#:~:text=What%20Is%20The%20Push%2FPull,the%20chest%2C%20shoulders%20and%20triceps.) to a schedule that's good for a PPL schedule.
 
-If you're using a premade schedule and you don't know what an exercise is, Google a Youtube tutorial. Don't be afraid to try and substitute exercises in that you think look cool!
+The most important thing to understand while working out for muscle building is the concept of [*progressive overload*](https://www.healthline.com/health/progressive-overload#:~:text=Progressive%20overload%20is%20when%20you,musculoskeletal%20system%20to%20get%20stronger.&text=With%20progressive%20overload%2C%20you%20may%20notice%20you%20feel%20fitter%20and%20stronger.). Progressive overload, in short, means you progressively add on more volume or weight to your workouts as time goes on. If one week you can curl 15lbs for 8 repetitions for 4 sets, try 9 repetitions the next week! This will place more stress on your muscles as time goes on. As you get stronger your exercises should get harder.
+
+**Your workouts should never be easy.**
+
+If you're using a premade schedule and you don't know what an exercise is, google a YouTube tutorial. Don't be afraid to try and substitute exercises in that you think look cool!
 
 ## What should I eat?
 
@@ -83,6 +89,10 @@ For most people dieting seems impossible, and I'd be lying if I said this wasn't
   - On a lean bulk (maintenance calories + (300 to 400) calories) you should gain 1 lb a week
   - On a lean cut (maintenance calories - 500 calories) you should lose 1 lb a week
   - Weight should be averaged throughout a week, measure at the same time every day
+  - Weight can often fluctuate for reasons outside of your control 
+    - Water intake, sodium intake, how big of a dinner you had last night, creatine cycles all effect your weight
+    - Looking at yourself and taking muscle measurements tends to be a better way to track progress, but weight will give you concrete numbers
+    - Don't get too crazy about the number as long as you hit your goals 
 - Drink water :droplet:
   - Most of the time when you're feeling weird about eating (whether you're trying to or trying not to) you're just thirsty
   - Try to drink about 4-5L a day (especially when supplementing with creatine)

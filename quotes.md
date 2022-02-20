@@ -4,6 +4,8 @@ title: Quotes
 permalink: /quotes/
 ---
 
-Gratitude is what gives you power over adversity
+Gratitude gives you power over adversity
 
 Comfort is the killer of man
+
+You can lead a horse to water but you can't make it drink
