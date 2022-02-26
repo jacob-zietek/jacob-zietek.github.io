@@ -21,3 +21,5 @@ People want an authority to tell them how to value things, but they choose this 
 There is no purgatory for war criminals. They go straight to hell.
 
 Only the dead have seen the end of war.
+
+Russian warship, go fuck yourself
