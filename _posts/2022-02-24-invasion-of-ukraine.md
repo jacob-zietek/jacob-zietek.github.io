@@ -17,7 +17,7 @@ War has returned to Europe.
 
 ![USSR Tank](https://pbs.twimg.com/media/FMbgunRWYBAi7Bs?format=jpg&name=small)
 
-I can't help but feel like this is the beginning of the end of the world we're all familiar with. Russia's invasion of Ukraine is a turning point in an era of relative stability. International peace has just been destroyed by the Kremlin. The invasion of Ukraine and the border crisis in Poland are the beginning of Russia's efforts to colonize the former satellite states of the USSR. We are seeing an explosive and violent revival of the most prominent authoritarian state from the 1900s. 
+I can't help but feel like this is the beginning of the end of the world we're all familiar with. Russia's invasion of Ukraine is a turning point in an era of relative stability. Peace in Europe has just been destroyed by the Kremlin. The invasion of Ukraine and the border crisis in Poland are the beginning of Russia's efforts to colonize the former satellite states of the USSR. We are seeing an explosive and violent revival of the most prominent authoritarian state from the 1900s. 
 
 The Russian and Belorussian governments are traitors to the Slavic and Baltic peoples whom they claim to have sovereign power over.
 
