@@ -22,4 +22,6 @@ There is no purgatory for war criminals. They go straight to hell.
 
 Only the dead have seen the end of war.
 
-Russian warship, go fuck yourself
+Russian warship, go fuck yourself.
+
+Comparison is the thief of joy.
