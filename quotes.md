@@ -25,3 +25,5 @@ Only the dead have seen the end of war.
 Russian warship, go fuck yourself.
 
 Comparison is the thief of joy.
+
+Work like you got a girl pregnant.
