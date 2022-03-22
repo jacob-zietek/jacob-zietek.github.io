@@ -10,6 +10,8 @@ permalink: /quotes/
 
 You're not good enough yet, there's a lot more work to do.
 
+The things you think about determine the quality of your mind. Your soul takes on the color of your thoughts.
+
 Gratitude gives you power over adversity.
 
 Comfort is the killer of man.
