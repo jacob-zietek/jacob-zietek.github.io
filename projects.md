@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+---
+
 ## TensorFlow Model Developer
 
 ### January 2021 - Present

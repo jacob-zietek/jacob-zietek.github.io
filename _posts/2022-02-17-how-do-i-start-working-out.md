@@ -8,6 +8,8 @@ A lot of people have approached me since I started working out for advice on how
 
 ###### Last updated Feb. 20 2021
 
+---
+
 ## Why is it important to you?
 
 Fitness and working out has incredible [benefits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1470658/#:~:text=Exercise%20improves%20mental%20health%20by,self%2Desteem%20and%20cognitive%20function.&text=Exercise%20has%20also%20been%20found,self%2Desteem%20and%20social%20withdrawal.) on your mental and physical health. It's an avenue to increase your cognition, self-esteem, and strength (among other things) all in one place. Your reward for working out is proportional to the amount of effort you put in.
