@@ -29,3 +29,5 @@ Russian warship, go fuck yourself.
 Comparison is the thief of joy.
 
 Work like you got a girl pregnant.
+
+You can't score without a goal.
