@@ -31,3 +31,5 @@ Comparison is the thief of joy.
 Work like you got a girl pregnant.
 
 You can't score without a goal.
+
+If he is not your brother in faith, he is your brother in humanity.
