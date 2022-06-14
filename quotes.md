@@ -33,3 +33,5 @@ Work like you got a girl pregnant.
 You can't score without a goal.
 
 If he is not your brother in faith, he is your brother in humanity.
+
+If, as the official Google line claims, this LaMDA AI is simply imitating human dialogue patterns, then we also have a philosophical problem with the question of when babies become conscious beings. Babies also learn through imitation. When do they have minds? AI researchers are going to hit this one repeatedly. Imitation or not, it's going to feel to them as if they are dealing with conscious beings.
