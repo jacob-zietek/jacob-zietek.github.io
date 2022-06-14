@@ -13,6 +13,8 @@ Technical interview questions are hard. It comes naturally to some-- I am not on
 
 Technical interviews have become the norm for any company somewhat related to tech. With such a huge talent pool and limited spots at top companies, you'll be answering at least one leetcode question to even be considered.
 
+![LC Meme 2](https://preview.redd.it/h62kap6wa9291.jpg?width=960&crop=smart&auto=webp&s=c71d515fc57cef5aaaabc5ac4f8870137fa19127)
+
 Leetcode style questions are daunting at first, but once you dip your toes in you'll soon realize they're all a subset of a few different patterns. Those being...
 
 - Arrays
@@ -45,6 +47,6 @@ Your mileage will vary with just these types of questions, but these are standar
 
 There will also likely be non-technical/behavioral questions. The best guide I've seen to answering these have been in the book [Cracking the Coding Interview](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf). In my experience, though, the best way to prepare for this is through experience. You're not just a code monkey :monkey_face: You'll need to be able to fluently talk about your past experiences in classes, personal projects, and internships. Software Engineering and related fields are social jobs. Explaining your code precisely and in high level terms is a necessary skill you'll need to develop. 
 
-The path to conquering technical interviews is long, frustrating, and tedious. However you may feel about them, technical interviews are here to stay. There are two options: adapt or die.
+The path to conquering technical interviews is long, frustrating, and tedious. However you may feel about them, technical interviews are here to stay. There are two options: **adapt or die**
 
 Secure your future, start leetcoding. Best of luck and add me on LinkedIn :^)
