@@ -35,3 +35,5 @@ If he is not your brother in faith, he is your brother in humanity.
 If, as the official Google line claims, this LaMDA AI is simply imitating human dialogue patterns, then we also have a philosophical problem with the question of when babies become conscious beings. Babies also learn through imitation. When do they have minds? AI researchers are going to hit this one repeatedly. Imitation or not, it's going to feel to them as if they are dealing with conscious beings.
 
 For what purpose, then, do I make a man my friend? In order to have someone for whom I may die, whom I may follow into exile, against whose death I may stake my own life, and pay the pledge, too.
+
+Caretake this moment. Immerse yourself in its particulars. Respond to this person or that person, this challenge, this deed. Quit the evasions. Stop giving yourself needless trouble. It is time to really live; to fully inhabit the situation you happen to be in right now. You are not some disinterested bystander. Participate. Exert yourself.
