@@ -43,3 +43,5 @@ Caretake this moment. Immerse yourself in its particulars. Respond to this perso
 The best way to fix bugs in your code is to put them in there yourself.
 
 I'll either find a way or make one.
+
+Conscience is a man's compass, and though the needle sometimes deviates, though one often perceives irregularities when directing one's course by it, one must still try to follow its direction.
