@@ -5,9 +5,19 @@
     <loc>https://hugo-profile.netlify.app/quotes/</loc>
     <lastmod>2022-12-24T14:09:53-05:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/categories/</loc>
+    <loc>https://hugo-profile.netlify.app/blog/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/blog/cracking-interviews/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hugo-profile.netlify.app/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/blog/how-do-i-start-working-out/</loc>
+    <lastmod>2022-02-17T14:09:53-05:00</lastmod>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/categories/</loc>
   </url><url>
     <loc>https://hugo-profile.netlify.app/tags/</loc>
   </url>
