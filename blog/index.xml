@@ -6,7 +6,18 @@
     <description>Recent content in Blogs on Jacob Zietek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recent Advancements in Language-Capable Robotics</title>
+      <link>https://hugo-profile.netlify.app/blog/recent-advancements-in-language-capable-robots/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/blog/recent-advancements-in-language-capable-robots/</guid>
+      <description>The love child of Robotics and NLP.
+Introduction Language-capable robots are the love child of exciting recent developments in Large Language Models (LLMs), Natural Language Processing (NLP), and robotics. This interdisciplinary field enables robots to interact with the world around them while understanding natural language prompts, opening exciting doors for robot-human interaction that was previously not possible.
+Introduction to LLMs LLMs are deep learning algorithms that understand human-like language with a high degree of accuracy.</description>
+    </item>
+    
     <item>
       <title>How I cracked the coding interview.</title>
       <link>https://hugo-profile.netlify.app/blog/cracking-interviews/</link>
