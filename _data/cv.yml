@@ -1,0 +1,116 @@
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Jacob Zietek
+#     #- name: Date of Birth
+#     #  value: 14th March 1879
+#     - name: Languages
+#       value: English, Polish
+
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: B.S. Computer Science
+#       institution: Purdue University, West Lafayette, USA
+#       year: 2023
+#       # description:
+#       #   - Description 1.
+#       #   - Description 2.
+#       #   - title: Description 3.
+#       #     contents:
+#       #       - Sub-description 1.
+#       #       - Sub-description 2.
+#     # - title: Federal teaching diploma
+#     #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+#     #   year: 1900
+#     #   description:
+#     #     - Description 1.
+#     #     - Description 2.
+
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: AI Engineer
+#       institution: Armada AI
+#       year: 2023 - Present
+#       # description:
+#       #   - Description 1.
+#       #   - Description 2.
+#       #   - title: Description 3.
+#       #     contents:
+#       #       - Sub-description 1.
+#       #       - Sub-description 2.
+#     - title: Undergraduate Researcher
+#       institution: CoRAL Laboratory @ Purdue
+#       year: 2022 - 2023
+    
+#     - title: Undergraduate Researcher
+#       institution: AKRaNLU Laboratory @ Purdue
+#       year: 2023
+
+#     - title: SDE Intern
+#       institution: Amazon
+#       year: 2022
+
+#     - title: AI Intern
+#       institution: Shield AI
+#       year: 2022
+
+#     - title: SWE Intern
+#       institution: Pacific Northwest National Laboratory
+#       year: 2021
+
+#     - title: High School Technical Intern
+#       institution: Brookhaven National Laboratory
+#       year: 2020
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - title: Alexa Prize TaskBot 2 Challenge
+#       year: 2023
+#       items: 
+#         - Wrote a research proposal which won $250,000 from Amazon Prize
+#         - Semi-finalist
+
+#     - title: Mary-Ann Neel Computer Science Scholarship
+#       year: 2022
+#       items:
+#         - Merit based CS scholarship @ Purdue
+    
+#     - title: Hello World Freshman Hackathon
+#       year: 2020
+#       items:
+#         - 2nd place overall
+    
+#     - title: HackRPI Hackathon
+#       year: 2020
+#       items:
+#         - Google COVID-19 Hackathon Fund winner (Won $500 in GCP credits)
+#         - Best use of Google Cloud
+#         - 2nd place Best use of AI
+
+#     - title: VEX Robotics
+#       year: 2018 - 2020
+#       items:
+#         - World championship competitor
+#         - State championship competitor
+#         - Design, excellence, and few other awards. 1353P and 1353X
+      
+#     - title: North American Computational Linguistics Olympiad
+#       year: 2019
+#       items:
+#         - 3rd place in age group
+
+#     - title: Zero Robotics International Space Station Programming Challenge
+#       year: 2019
+#       items:
+#         - Competition finalist
+#         - My code was run aboard the ISS!
+
+    
+
+    
+
+
