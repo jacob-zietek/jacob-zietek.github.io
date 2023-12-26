@@ -34,7 +34,7 @@ On weekends, depending on availability, I voluntarily host office hours for stud
 
 ## **About me**
 
-I'm an AI Engineer at [Armada](https://www.armada.ai/ai) where I work on apps for EdgeAI.
+I'm an AI Engineer at [Armada](https://www.armada.ai/ai) where I work on EdgeAI.
 
 I have done internships with [Amazon](https://www.amazon.jobs/content/en/teams/health-services), [Shield AI](https://shield.ai/jets/), [PNNL](https://www.pnnl.gov/), and [BNL](https://www.bnl.gov/world/) during my undergrad @ Purdue. 
 
