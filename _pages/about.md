@@ -40,14 +40,15 @@ I have done internships with [Amazon](https://www.amazon.jobs/content/en/teams/h
 
 A bulk of my undergraduate research was under [Professor Ahmed Qureshi](https://qureshiahmed.github.io/) at [CoRAL Lab](https://corallab.net/).
 
+## **Interests**
 
-I call myself a research engineer sometimes because I can't make up my mind.
+My beliefs are that AI and robotics will eventually replace humans in boring and dangerous tasks. This is something we should welcome with open arms, and help accelerate as much as possible.
 
-## **Research interests**
+I’m passionate about integrating AI into our daily lives. My main interests are in collaborative decision-making between autonomous systems and humans. I enjoy building systems the general population can interact with directly. Naturally, the main fields I’m most interested in are AI, robotics, and human-robot interaction. 
 
-I’m passionate about integrating AI into our daily lives. My main interests are in collaborative decision-making between autonomous systems and humans. I enjoy building practical virtual and embodied systems the general population can interact with. Naturally, the main fields I’m most interested in are AI, robotics, and human-robot interaction. I am also interested in subfields that aid in building interactive systems, such as CV and NLP.
+As of late I've been focused on using foundational models in language and vision for collaborative planning and decision making.
 
-Recenly, I've been focused on using foundational models in language and vision for collaborative planning and decision making.
+I'm constantly looking for opportunities to contribute to interesting projects, dm me :)
 
 ## **Mentorship**
 

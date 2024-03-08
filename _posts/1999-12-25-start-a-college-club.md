@@ -2,6 +2,7 @@
 layout: post
 title: Start a college club.
 # slug: <changeme> You can override here
+draft: true
 ---
 
 12/25/23 In progress.
