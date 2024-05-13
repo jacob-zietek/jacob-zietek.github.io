@@ -46,13 +46,11 @@ My beliefs are that AI and robotics will eventually replace humans in boring and
 
 I’m passionate about integrating AI into our daily lives. My main interests are in collaborative decision-making between autonomous systems and humans. I enjoy building systems the general population can interact with directly. Naturally, the main fields I’m most interested in are AI, robotics, and human-robot interaction. 
 
-As of late I've been focused on using foundational models in language and vision for collaborative planning and decision making.
-
 I'm constantly looking for opportunities to contribute to interesting projects, dm me :)
 
 ## **Mentorship**
 
-I come from a pretty unique background where I had to figure a lot of stuff out on my own. If you do too, and I can help in any way, fill out this [form](https://forms.gle/a1bR1UGDXm39g6Kz9) and shoot me an email. I check everything regularly.
+I come from a pretty unique background and I had to figure a lot of stuff out on my own. If you do too, and I can help in any way, fill out this [form](https://forms.gle/a1bR1UGDXm39g6Kz9) or shoot me an email. I check everything regularly.
 
 <!-- ## **Stuff outside of work** -->
 
