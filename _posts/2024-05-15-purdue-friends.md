@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Purdue friends
+title: Purdue friends.
 # slug: <changeme> You can override here
 ---
 
