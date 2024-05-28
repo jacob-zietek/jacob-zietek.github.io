@@ -8,6 +8,9 @@ nav_order: 10
 
 ---
 
+Foul Tarnished, in search of the Elden Ring. Emboldened by the Flame of Ambition. Someone must extinguish thy flame.
+-*Margit the Fell Omen* from *Elden Ring*, moments before dying
+
 the first lesson of all was the basic trust that he could learn. It is shocking to find how many people do not believe they can learn, and how many more believe learning to be difficult. Muad'Dib knew that every experience carries its lesson.
 -*Irulan* from *Dune*
 
