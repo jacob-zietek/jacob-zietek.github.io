@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="/main.css">
+</head>
+
+<body>
+
+    <!-- Import navbar from nav_bar.html using javascript -->
+    <div id="header"></div>
+    <script>
+        // Load the header
+        fetch('/nav_bar.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('header').innerHTML = data);
+    </script>
+    <!-- End navbar import -->
+
+    <h1>NSF GRFP Results</h1>
+    <h2>April 15, 2024</h2>
+    <p>
+
+        I wanted to share my results so hopefully others can learn from it later. I applied as a Bachelors student
+        straight into Ph.D. programs. My field was CS/AI/ML/Robotics.</p>
+
+    <p>Recieved 1 Excellent and 4 Very Good scores for Intellectual Merit, 5 Very Good scores for Broader Impacts.</p>
+
+    <p>Result: No honorable mention or award.</p>
+
+    <p> My <a href="/assets/pdf/grfp_background.pdf">background</a>, my <a
+            href="/assets/pdf/grfp_proposal.pdf">proposal</a>, and my <a
+            href="/assets/pdf/grfp_reviews.pdf">reviews</a>.</p>
+
+    <p> Reach out if I can help in any way :^) Good luck! </p>
+
+
+</body>
