@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+
+
+<body>
+
+    <!-- Import navbar from nav_bar.html using javascript -->
+    <div id="header"></div>
+    <script>
+        // Load the header
+        fetch('nav_bar.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('header').innerHTML = data);
+    </script>
+    <!-- End navbar import -->
+
+    <h1>Thoughts and ramblings</h1>
+
+    <p><a href="blogs/purdue_friends.html">Purdue Friends</a> May 15, 2024</p>
+
+
+</body>
+
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="/main.css">
+</head>
+
+<body>
+
+    <!-- Import navbar from nav_bar.html using javascript -->
+    <div id="header"></div>
+    <script>
+        // Load the header
+        fetch('/nav_bar.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('header').innerHTML = data);
+    </script>
+    <!-- End navbar import -->
+
+    <h1>Purdue Friends</h1>
+    <p>After a trip with 13 of my closest friends from Purdue some of us decided to link to each
+        other and create a
+        small web.</p>
+    <ul>
+        <li> <a href="https://coleroberts.dev/index" rel="external nofollow noopener" target="_blank">Cole Roberts</a>
+            OS dev, fitness, health, essays</li>
+        <li> <a href="https://wade.dev/" rel="external nofollow noopener" target="_blank">Nicholas Wade</a> Robotics, AI
+        </li>
+        <li> <a href="https://bhavesh.dev/about" rel="external nofollow noopener" target="_blank">Bhavesh</a> Good at
+            everything somehow</li>
+        <li> <a href="https://sagarpatil.me/" rel="external nofollow noopener" target="_blank">Sagar Patil</a> Rockets,
+            AI</li>
+        <li> <a href="https://jinen.setpal.net/" rel="external nofollow noopener" target="_blank">Jinen Setpal</a> AI
+            interpretability research</li>
+        <li> <a href="https://mikail-khan.com/" rel="external nofollow noopener" target="_blank">Mikail Khan</a>
+            Programming languages research</li>
+        <li> <a href="https://arefmalek.com/" rel="external nofollow noopener" target="_blank">Aref Malek</a> SWE, AI
+        </li>
+        <li> <a href="https://harmya.me/" rel="external nofollow noopener" target="_blank">Harmya Bhatt</a> SWE, AI</li>
+    </ul>
+
+</body>
