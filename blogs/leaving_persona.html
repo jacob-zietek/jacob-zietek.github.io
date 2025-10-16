@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="/main.css">
+</head>
+
+<body>
+
+    <!-- Import navbar from nav_bar.html using javascript -->
+    <div id="header"></div>
+    <script>
+        // Load the header
+        fetch('/nav_bar.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('header').innerHTML = data);
+    </script>
+    <!-- End navbar import -->
+
+    <h1>Leaving Persona AI ✌️</h1>
+    <h2>October 16, 2025</h2>
+    <p>I made the difficult decision to leave Persona. Honestly, it looks a bit dumb on the surface. We raised a huge
+        round, we hired a great team, and we’re hitting some really exciting milestones internally, so why?</p>
+    <p>I want to make great contributions to embodied AI. I'm not sure if that will manifest more as an IC or as
+        leadership over my lifetime (<a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">You and Your
+            Research</a>), but my north star is aligned to supporting the intelligence portion of robotics.</p>
+    <p>Persona is doing great work in robot learning w.r.t. humanoids, but I want to focus on different things. Staying
+        at Persona would give me a large magnitude in an orthogonal direction. There are so many exciting directions in
+        robot learning I want to explore, and working purely on humanoids with in-house hardware limits those
+        directions. I believe Persona's focus is in the <a
+            href="https://x.com/xiao_ted/status/1970162414776918451">right direction</a>, but I'm currently more
+        interested in working on problems that are only enabled by low-cost hardware coupled with real-world deployment.
+    </p>
+    <p>In general, I'm okay with injecting <a href="https://evjang.com/2022/03/21/leaving-google-brain.html">some
+            noise</a> into my life. I'm very excited about the possibilities this opens up :^) I feel like my growth is
+        bottlenecked by feedback and proximity to the broader robot learning community, so I'm excited to be back in the
+        Bay!</p>
+
+    <p>I’m moving into a robotics house in Menlo Park with some really talented people while I figure out my next steps.
+        Thank you to JingXiang Mo and the team for generously giving me a free place to stay, food, robots, and compute.
+        I’ll be working with a pair of Galaxea arms and helping JX’s company as they ideate.</p>
+
+        <p>I’m broadly interested in embodied AI and robot foundation models. Especially how we can push robustness,
+            continual learning, and adaptation through real-world deployment. These are the kinds of problems I want to
+            spend the next few years obsessing over. I currently believe the best way to do this is to build robust models for
+            simpler tasks and cheap hardware to enable immediate deployment, and then gradually scale up to more complex
+            tasks and diverse environments. You should deploy in a vertical with ample opportunity for growth.</p>
+
+    <p>I’m looking for new opportunities. If any of this resonates with you, please reach out. Would be happy to hear
+        about new companies to join, potential co-founders, and potential research collaborations. Would also love to
+        hear any advice you might have to offer.</p>
+
+    <p>Some of my (somewhat exaggerated) hot takes:</p>
+    <ul>
+        <li>Strong data infrastructure and real-world deployment matter the most for embodied AI companies. Grow with
+            model capabilities and the robotics ecosystem (<a
+                href="https://a16z.com/toward-a-general-purpose-robotics-platform/">a16z article</a>)</li>
+        <li>Today’s models are good enough for more than t-shirt folding. We aren’t being creative enough with
+            applications</li>
+        <li>The community's focus on learning control from ego-centric data largely stems from slow hardware iteration
+            cycles. Researchers need intermediate problems to tackle while hardware catches up and on-embodiment data
+            remains difficult to collect
+            <ul>
+                <li>The exception is world model research. That's a really cool direction</li>
+            </ul>
+        </li>
+        <li>Collecting on-embodiment data is the only thing that matters, and any other type of action data will yield
+            marginal improvement in comparison</li>
+        <li>We need to focus more on learning from experience & deployment</li>
+    </ul>
+    <p>There are a lot of great opportunities right now, and I don’t want to get FOMO before jumping into something new.
+        For now, I’ll keep talking to people, catching up on papers, and working on some fun experiments at JX’s house
+        🫡 </p>
+
+    <hr>
+
+    <p>I also want to thank the team at Persona, especially the founders Nic, Jide, and Jerry, for taking a huge bet on
+        me. I had minimal experience before joining. No graduate degree, no papers, and really no paper trail in robot
+        learning besides a year of undergrad research. Joining Persona changed my life and exposed me to so many new
+        people, experiences, and ideas that I wouldn’t have otherwise encountered. It’s been amazing building 0→1 with
+        the team, and I couldn’t have asked for a better start to my career :^)</p>
+
+    <p>Some fun facts</p>
+    <ul>
+        <li>I lived with Nic and Jerry for about a month in total, between their places</li>
+        <li>I was the only person on the engineering team under 30 from October ‘24 to May ‘25</li>
+    </ul>
+
+</body>
