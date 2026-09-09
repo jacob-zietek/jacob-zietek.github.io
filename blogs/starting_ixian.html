@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="/main.css">
+</head>
+
+<body>
+
+    <!-- Import navbar from nav_bar.html using javascript -->
+    <div id="header"></div>
+    <script>
+        // Load the header
+        fetch('/nav_bar.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('header').innerHTML = data);
+    </script>
+    <!-- End navbar import -->
+
+    <h1>Starting Ixian Robotics</h1>
+    <h2>September 9, 2026</h2>
+
+    <p>I'm leaving a16z to start Ixian Robotics. We're deploying intelligent robots to help reindustrialize
+        America.</p>
+
+    <p>I have this obsession with <a href="https://x.com/nevergoon/status/2089440857720299684">factory resetting my
+            life</a> (<a href="https://x.com/JacobZietek/status/1790237969338740828">2024</a>) (<a
+            href="https://x.com/JacobZietek/status/1978975421157847550">2025</a>). It's a little strange starting
+        something with incredible partners, friends, and mentors already alongside me. The last couple of months have
+        felt like knocking down dominoes I've spent years putting up.</p>
+
+    <p>Joining a16z's American Dynamism (AD) fund as an Engineering Fellow gave me time to move back to the Bay,
+        settle in again, and spend time with people building across manufacturing and robotics. I got to work across
+        the AD, infrastructure, growth, and speedrun teams, which exposed me to people and <a
+            href="https://www.a16z.news/p/robotics-needs-fewer-roboticists">ideas I wouldn't have encountered staying
+            purely in robot learning</a>. I'm very grateful to everyone who took the time to bring me into their
+        world.</p>
+
+    <p>When I <a href="/blogs/leaving_persona.html">left Persona</a>, I wrote that I wanted to make great
+        contributions to embodied AI, but I wasn't sure whether that would be as an IC or through leadership. I
+        referenced Hamming's <a
+            href="https://blog.samaltman.com/you-and-your-research#:~:text=Hamming%3A%C2%A0If,do%20both%20sides."><i>You
+                and Your Research</i></a>, where he talks about moving toward management when your vision grows
+        beyond what you can accomplish as an individual.</p>
+
+    <p>I still aspire to be a full stack roboticist, but my definition of that has expanded. Robotics doesn't just
+        end at software, hardware, and learning. There's a whole world of understanding customers, selling products,
+        navigating supply chains and capital markets, building teams and cultures, shaping policy, growing
+        communities, and earning public trust that we need to figure out to truly push robotics forward. I'll always
+        be a robot learning person at heart, but I'm excited to take responsibility for everything it takes to make
+        this vision happen.</p>
+
+    <p>This moment in time feels electric. America has an imperative to reindustrialize to protect our national
+        interests, and radical advances in robot learning give us the opportunity to leapfrog the industrial model we
+        spent decades outsourcing. We can build an industrial base more capable than anything we've had before,
+        bringing manufacturing back at an entirely new pace and scale.</p>
+
+    <p>I'm excited to share more about what we're building later. For now, we've closed our pre-seed and moved out of
+        my living room into a new office.</p>
+
+    <p>If you want to work at the intersection of robot foundation models and rebuilding American industry, I want to
+        talk to you. I'm looking for people who are personally invested in making this future happen, and excited to
+        do whatever it takes to get there.</p>
+
+    <p>It's time to build.</p>
+
+    <hr>
+
+    <p>You can reach me at jz @ ixianrobotics dot com or <a href="https://x.com/jacobzietek">@jacobzietek</a>.</p>
+
+    <img src="/images/pour_it_on.jpg" alt="WWII War Production Board 'Pour It On!' poster">
+
+    <p>Some fun facts:</p>
+    <ul>
+        <li>The company name is a Dune reference.</li>
+        <li>The founding team nearly perished on a 10-mile hike with 3,500 ft of elevation gain because we didn’t check the temperature before leaving. It was in the 90s and fully exposed. We ran out of water with 2.5 miles to go.</li>
+    </ul>
+
+</body>
+
+</html>
